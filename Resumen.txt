@@ -1,0 +1,41 @@
+creado el 03-09-2022  11:27:37 por Alexander Fuentes Trujillo
+
+                    Resumen de utilidades por meses en el año 2021       
+
+El mes con mayor gasto fue OCTUBRE    con: $16942889
+El mes con menor gasto fue MARZO      con: $10564879
+
+El mes con mayores ventas fue ABRIL      con: $35129000
+El mes con menores ventas fue FEBRERO    con: $27012500
+
+El mes con mayor utilidad fue ABRIL      con: $22926536
+El mes con menores ventas fue ENERO      con: $10955112
+
+Anualmente se obtuvieron unos gastos de: $162024540, en ventas fueron: $372264600 y una utilidad de: $210240060
+
+En el mes de ENERO      el promedio en gastos fue de: $524044, en ventas de: $877435   y una utilidad de: $353390
+En el mes de FEBRERO    el promedio en gastos fue de: $458152, en ventas de: $964732   y una utilidad de: $506579
+En el mes de MARZO      el promedio en gastos fue de: $340802, en ventas de: $985567   y una utilidad de: $644765
+En el mes de ABRIL      el promedio en gastos fue de: $406748, en ventas de: $1170966  y una utilidad de: $764217
+En el mes de MAYO       el promedio en gastos fue de: $406874, en ventas de: $910838   y una utilidad de: $503964
+En el mes de JUNIO      el promedio en gastos fue de: $400076, en ventas de: $1045620  y una utilidad de: $645543
+En el mes de JULIO      el promedio en gastos fue de: $409987, en ventas de: $1123796  y una utilidad de: $713809
+En el mes de AGOSTO     el promedio en gastos fue de: $434964, en ventas de: $894438   y una utilidad de: $459474
+En el mes de SEPTIEMBRE el promedio en gastos fue de: $512835, en ventas de: $1024746  y una utilidad de: $511910
+En el mes de OCTUBRE    el promedio en gastos fue de: $546544, en ventas de: $1113767  y una utilidad de: $567222
+En el mes de NOVIEMBRE  el promedio en gastos fue de: $449842, en ventas de: $1028963  y una utilidad de: $579121
+En el mes de DICIEMBRE  el promedio en gastos fue de: $437141, en ventas de: $1098774  y una utilidad de: $661632
+
+
+En el mes de ENERO      los gastos fuerón: $16245388, en ventas se obtuvieron: $27200500 y una utilidad de: $10955112
+En el mes de FEBRERO    los gastos fuerón: $12828273, en ventas se obtuvieron: $27012500 y una utilidad de: $14184227
+En el mes de MARZO      los gastos fuerón: $10564879, en ventas se obtuvieron: $30552600 y una utilidad de: $19987721
+En el mes de ABRIL      los gastos fuerón: $12202464, en ventas se obtuvieron: $35129000 y una utilidad de: $22926536
+En el mes de MAYO       los gastos fuerón: $12613112, en ventas se obtuvieron: $28236000 y una utilidad de: $15622888
+En el mes de JUNIO      los gastos fuerón: $12002297, en ventas se obtuvieron: $31368600 y una utilidad de: $19366303
+En el mes de JULIO      los gastos fuerón: $12709600, en ventas se obtuvieron: $34837700 y una utilidad de: $22128100
+En el mes de AGOSTO     los gastos fuerón: $13483899, en ventas se obtuvieron: $27727600 y una utilidad de: $14243701
+En el mes de SEPTIEMBRE los gastos fuerón: $15385074, en ventas se obtuvieron: $30742400 y una utilidad de: $15357326
+En el mes de OCTUBRE    los gastos fuerón: $16942889, en ventas se obtuvieron: $34526800 y una utilidad de: $17583911
+En el mes de NOVIEMBRE  los gastos fuerón: $13495265, en ventas se obtuvieron: $30868900 y una utilidad de: $17373635
+En el mes de DICIEMBRE  los gastos fuerón: $13551400, en ventas se obtuvieron: $34062000 y una utilidad de: $20510600
